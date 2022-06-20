@@ -21,7 +21,7 @@ In order to run the application npm and node is required.Please follow installat
 
 ## Usage  
 
-Please click on the link to see demo  . The html document containing the team is named "team.html". it can be modified, however, the code till the first <div> opening tag(including) should not be deleted neither the last two lines of code containing closing tags <body> and <html>. Every time the application is run new members are added. In order to delete all the memebers, delete all sections, the footer and the closing </div> tag.
+Please click on the link to see demo.The html document containing the team is named "team.html". it can be modified, however, the code till the first <div> opening tag(including) should not be deleted neither the last two lines of code containing closing tags <body> and <html>. Every time the application is run new members are added. In order to delete all the memebers, delete all sections, the footer and the closing </div> tag.
 ## Contributions Guide Lines 
 
   
