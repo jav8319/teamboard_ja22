@@ -13,7 +13,7 @@
 
 ## Description  
 
-This application creates a html document containing a team of work made up of a manager, engineer and intern. By running the java file "index.js" in the terminal, user is prompt to choose a team member and then entering info for each. The applications ends when the user choose "none" when prompt to add another member.  
+This application creates a html document containing a team of work made up of a manager, engineer and intern. By running the java file "index.js" in the terminal, user is prompt to choose a team member and then entering info for each. The application ends when the user choose "none" when prompt to add another member.  
 
 ## Installation  
 
