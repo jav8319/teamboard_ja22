@@ -26,7 +26,7 @@ class Engineer extends Employee {
     <h2>
     email:<a>${this.email}</a>
     <h2>
-    Github:<a src="https://github.com/${this.githubusername}">https://github.com/${this.githubusername}</a>
+    Github:<a href="https://github.com/${this.githubusername}">https://github.com/${this.githubusername}</a>
     </h2>
     </section>
     `;
